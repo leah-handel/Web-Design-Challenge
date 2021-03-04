@@ -1,0 +1,10 @@
+.box {
+    min-height: 50px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #fff;
+  }
+
+body {
+    background-color: #DAF7A6;
+}
