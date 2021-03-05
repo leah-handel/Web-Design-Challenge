@@ -8,3 +8,7 @@
 body {
     background-color: #DAF7A6;
 }
+
+thead {
+    font-weight: bold;
+}
