@@ -1,7 +1,6 @@
 .box {
-    min-height: 50px;
-    padding: 10px;
-    margin: 10px;
+    padding: 1em 1.5em;
+    margin-bottom: 2em;
     background-color: #fff;
   }
 
@@ -11,4 +10,8 @@ body {
 
 thead {
     font-weight: bold;
+}
+
+.border {
+    border-width: .3em;
 }
