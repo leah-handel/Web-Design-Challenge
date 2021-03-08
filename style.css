@@ -1,11 +1,11 @@
 .box {
     padding: 1em 1.5em;
     margin-bottom: 2em;
+    margin-top: 1em;
     background-color: #fff;
   }
-
 body {
-    background-color: #DAF7A6;
+    background-color: #f0f8ff;
 }
 
 thead {
