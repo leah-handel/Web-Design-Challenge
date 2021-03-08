@@ -5,14 +5,10 @@
     background-color: #fff;
   }
 body {
-    background-color: #f0f8ff;
+    background-color: #ebf1f2;
 }
 
 thead {
     font-weight: bold;
     text-align: left;
-}
-
-.border {
-    border-width: .3em;
 }
