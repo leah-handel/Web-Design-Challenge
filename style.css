@@ -10,6 +10,7 @@ body {
 
 thead {
     font-weight: bold;
+    text-align: left;
 }
 
 .border {
