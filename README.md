@@ -1,4 +1,4 @@
-# Web Design with Bootstrap
+# Website for Latitude vs. Weather
 
 ## General Info
 
